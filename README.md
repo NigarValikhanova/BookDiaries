@@ -1,6 +1,6 @@
-## 📚 BookDiaries Web App
+## 📚 BookDiaries Webpage
 
-Welcome to the repository for my BookDiaries Web App, a dynamic online platform for book enthusiasts. This application is built with .NET 7, utilizing robust frameworks and libraries such as Identity for authentication, Entity Framework for ORM, and Dependency Injection for efficient service management.
+Welcome to the repository for my BookDiaries Webpage, a dynamic online platform for book enthusiasts. This application is built with .NET 7, utilizing robust frameworks and libraries such as Identity for authentication, Entity Framework for ORM, and Dependency Injection for efficient service management.
 
 ### Key Features:
 - **Secure User Authentication**: Integrated with ASP.NET Core Identity, ensuring secure user registration, login, and management.
