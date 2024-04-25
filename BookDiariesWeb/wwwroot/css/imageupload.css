@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Charm:400,700');
+
+* {
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Charm', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.avatar {
+    margin: 0 auto 15px;
+    max-width: 150px;
+}
+
+    .avatar figure {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 50%;
+        margin: 0;
+        padding-bottom: 100%;
+        width: 100%;
+    }
+
+input[type="file"] {
+    display: none;
+}
+
+form {
+    display: block;
+    margin: 30px auto 0;
+    max-width: 300px;
+}
+
+.choosefile {
+    border: 2px solid #000;
+    cursor: pointer;
+    display: inline-block;
+    height: 40px;
+    position: relative;
+    vertical-align: middle;
+    width: 100%;
+}
+
+    .choosefile::before {
+        content: attr(data-file);
+        line-height: 1;
+        left: 10px;
+        position: absolute;
+        right: 85px;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .choosefile::after {
+        -webkit-align-content: center;
+        -ms-align-content: center;
+        align-content: center;
+        -webkit-align-items: center;
+        -ms-align-items: center;
+        align-items: center;
+        background-color: #000;
+        bottom: 0;
+        color: #fff;
+        content: attr(data-after);
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 75px;
+    }

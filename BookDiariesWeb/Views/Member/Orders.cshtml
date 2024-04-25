@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Orders";
+}
+
+
+@model IEnumerable<OrderHeader>
+
+
+<!-- profile area start -->
+<section class="profile__area pt-120 pb-120">
+    <div class="container">
+        <div class="profile__inner p-relative">
+            <div class="profile__shape">
+                <img class="profile__shape-1" src="~/img/login/laptop.png" alt="">
+                <img class="profile__shape-2" src="~/img/login/man.png" alt="">
+                <img class="profile__shape-3" src="~/img/login/shape-1.png" alt="">
+                <img class="profile__shape-4" src="~/img/login/shape-2.png" alt="">
+                <img class="profile__shape-5" src="~/img/login/shape-3.png" alt="">
+                <img class="profile__shape-6" src="~/img/login/shape-4.png" alt="">
+            </div>
+            <div class="row">
+                <div class="col-md-8 offset-2">
+                    <h3 class="profile__info-title">My Orders</h3>
+                    <div class="profile__tab-content">
+                        <div class="tab-content" id="profile-tabContent">
+                            <div class="tab-pane fade show active" id="nav-order" role="tabpanel" aria-labelledby="nav-order-tab">
+                                <div class="profile__ticket table-responsive">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Order Id</th>
+                                                <th scope="col">Payment Date</th>
+                                                <th scope="col">Status</th>
+                                                <th scope="col">Total Price</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var order in Model)
+                                            {
+                                                <tr>
+                                                    <td>@order.Id</td>
+                                                    <td>@order.PaymentDate</td>
+                                                    <td>@order.OrderStatus</td>
+                                                    <td>@order.OrderTotal</td>
+                                                </tr>
+                                            }                                             
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- profile area end -->
+
+@section Scripts{
+    <script src="~/js/vendor/jquery.js"></script>
+    <script src="~/js/vendor/waypoints.js"></script>
+    <script src="~/js/bootstrap-bundle.js"></script>
+    <script src="~/js/meanmenu.js"></script>
+    <script src="~/js/swiper-bundle.js"></script>
+    <script src="~/js/slick.js"></script>
+    <script src="~/js/range-slider.js"></script>
+    <script src="~/js/magnific-popup.js"></script>
+    <script src="~/js/nice-select.js"></script>
+    <script src="~/js/purecounter.js"></script>
+    <script src="~/js/countdown.js"></script>
+    <script src="~/js/wow.js"></script>
+    <script src="~/js/isotope-pkgd.js"></script>
+    <script src="~/js/imagesloaded-pkgd.js"></script>
+    <script src="~/js/ajax-form.js"></script>
+    <script src="~/js/main.js"></script>
+                                                    }

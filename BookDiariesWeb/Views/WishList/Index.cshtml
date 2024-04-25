@@ -1,0 +1,107 @@
+﻿@model WishListVM
+
+
+@section Styles{
+    <style>
+        <link rel="stylesheet" href="~/css/Cart.css" >
+    </style>
+}
+
+<!-- breadcrumb area start -->
+<section class="breadcrumb__area include-bg pt-95 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xxl-12">
+                <div class="breadcrumb__content p-relative z-index-1">
+                    <h3 class="breadcrumb__title">Wishlist</h3>
+                    <div class="breadcrumb__list">
+                        <span><a asp-controller="Home" asp-action="Index">Home</a></span>
+                        <span>Wishlist</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb area end -->
+<!-- cart area start -->
+<form method="post">
+    <section class="tp-cart-area pb-120">
+        <div class="container">
+            <div class="row">
+                @if (Model.WishesLists.Count() == 0)
+                {
+                    <div class="col-xl-12 col-lg-12 col-md-12">
+                        <h3 class="text-center">Your Wish List is Empty</h3>
+                        <p class="text-center">Would you like to make you happy? Start <a asp-action="Index" asp-controller="Books">Shopping</a></p>
+                    </div>
+                }
+                else
+                {
+                    <div class="col-xl-12">
+                        <div class="tp-cart-list mb-45 mr-30">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th colspan="2" class="tp-cart-header-product">Product</th>
+                                        <th class="tp-cart-header-price">Price</th>
+                                        <th class="tp-cart-header-quantity">Quantity</th>
+                                        <th class="tp-cart-header-quantity">Change Quantity</th>
+                                        <th>Action</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.WishesLists)
+                                    {
+                                        <tr>
+                                            <td class="tp-cart-img"><a href="/Home/BookDetails/@item.Product.Id"> <img src="~/@item.Product.ProductImages.FirstOrDefault().ImageUrl" /></a></td>
+                                            <td class="tp-cart-title"><a href="/Home/BookDetails/@item.Product.Id">@item.Product.Title</a></td>
+                                            <td class="tp-cart-price"><span>@item.Price.ToString("c")</span></td>
+                                            <td class="tp-cart-price"><span>@item.Count</span> </td>
+
+                                            <td class="tp-cart-quantity">
+                                                <div class="tp-product-quantity mt-10 mb-10">
+                                                    <a asp-action="minus" asp-route-wishId="@item.Id" class="btn btn-outline-primary bg-gradient py-2">
+                                                        <i class="fas fa-minus"></i>
+                                                    </a> &nbsp;
+                                                    <a asp-action="plus" asp-route-wishId="@item.Id" class="btn btn-outline-success bg-gradient py-2">
+                                                        <i class="fas fa-plus"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+
+                                            <td class="tp-cart-add-to-cart">
+                                                <button type="submit" class="tp-btn tp-btn-2 tp-btn-blue">Add To Cart</button>
+                                            </td>
+
+                                            <td class="tp-cart-action">
+                                                <a asp-action="Remove" asp-route-wishId="@item.Id" class="tp-cart-action-btn">
+                                                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53033 1.53033C9.82322 1.23744 9.82322 0.762563 9.53033 0.46967C9.23744 0.176777 8.76256 0.176777 8.46967 0.46967L5 3.93934L1.53033 0.46967C1.23744 0.176777 0.762563 0.176777 0.46967 0.46967C0.176777 0.762563 0.176777 1.23744 0.46967 1.53033L3.93934 5L0.46967 8.46967C0.176777 8.76256 0.176777 9.23744 0.46967 9.53033C0.762563 9.82322 1.23744 9.82322 1.53033 9.53033L5 6.06066L8.46967 9.53033C8.76256 9.82322 9.23744 9.82322 9.53033 9.53033C9.82322 9.23744 9.82322 8.76256 9.53033 8.46967L6.06066 5L9.53033 1.53033Z" fill="currentColor" />
+                                                    </svg>
+                                                    <span>Remove</span>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="tp-cart-bottom">
+                            <div class="row align-items-end">
+                                <div class="col-xl-6 col-md-4">
+                                    <div class="tp-cart-update">
+                                        <a asp-controller="Cart" asp-action="Index" class="tp-cart-update-btn">Go To Cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+                
+            </div>
+        </div>
+    </section>
+</form>
+<!-- cart area end -->

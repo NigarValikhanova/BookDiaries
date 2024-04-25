@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Upsert";
+}
+
+@model Blog
+
+<h1 class="text-center mb-3">@((Model.Id != 0 ? "Update" : "Create") + " Blog Page")</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    @((Model.Id != 0 ? "Update" : "Create") + " Blog")
+                </div>
+                <div class="card-body">
+                    <form asp-action="Upsert" method="post" enctype="multipart/form-data">
+                        <input asp-for="Id" hidden />
+                        <input asp-for="ImageUrl" hidden />
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label>Title:</label>
+                            <input asp-for="Title" type="text" placeholder="Enter Title" class="form-control">
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Author:</label>
+                            <input asp-for="Author" type="text" placeholder="Enter Author" class="form-control">
+                            <span asp-validation-for="Author" class="text-danger"></span>
+                        </div>
+
+                        @if(Model.Id != 0)
+                        {
+                        <div class="form-group">
+                            <label>Date:</label>
+                            <input asp-for="CreatedAt" type="date" placeholder="Enter Date" class="form-control">
+                        </div>
+                        }
+                                    
+
+                        <div class="form-group">
+                            <label>Description:</label>
+                            <textarea asp-for="Content" class="form-control" rows="4"></textarea>
+                        </div>
+
+                        @if (Model.Id != 0)
+                        {
+                            <div class="form-group">
+                                <label>Current Image:</label>
+                                <img src="~/@Model.ImageUrl" class="img-fluid rounded" style="border: 1px solid #bbb9b9;">
+                            </div>
+                        }
+                        
+                        <div class="form-group">
+                            <label>Image:</label>
+                            <input asp-for="ImageUrl" type="file" name="file" class="form-control-file">
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-6">
+                                <a asp-controller="Blog" asp-action="Index" class="btn btn-warning form-control"><i class="ti-angle-double-left"></i>&nbsp; Back to Blog List</a>
+                            </div>
+
+                            <div class="col-6">
+                                @if (Model.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-success border form-control"><i class="fa fa-save"></i>&nbsp; Update </button>
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-success border form-control"><i class="fa fa-magic"></i>&nbsp; Create </button>
+                                }
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

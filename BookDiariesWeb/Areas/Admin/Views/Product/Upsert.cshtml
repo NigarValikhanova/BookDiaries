@@ -1,0 +1,188 @@
+﻿@{
+    ViewData["Title"] = "Upsert";
+}
+
+@model ProductVM
+
+<h1 class="text-center mb-3">@((Model.Product.Id != 0 ? "Update" : "Create") + " Product Page")</h1>
+<form asp-action="Upsert" method="post" enctype="multipart/form-data">
+    <input asp-for="Product.Id" hidden />
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        @((Model.Product.Id != 0 ? "Update" : "Create") + " Product")
+                    </div>
+                    <div class="card-body">
+
+                        @* <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+
+
+                        <div class="form-group">
+                            <label>Title:</label>
+                            <input asp-for="Product.Title" type="text" placeholder="Enter title" class="form-control">
+                            <span asp-validation-for="Product.Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Author:</label>
+                            <select asp-for="@Model.Product.AuthorId" asp-items="@Model.AuthorList" class="form-control">
+                                <option disabled selected>--Select Author for a New Book--</option>
+                            </select>
+                            <span asp-validation-for="Product.AuthorId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Description:</label>
+                            <textarea asp-for="Product.Description" class="form-control" rows="4"></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label>ISBN:</label>
+                            <input asp-for="Product.ISBN" type="text" placeholder="Enter ISBN" class="form-control">
+                            <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Price:</label>
+                            <input asp-for="Product.Price" type="text" placeholder="Enter price" class="form-control">
+                            <span asp-validation-for="Product.Price" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Price 50:</label>
+                            <input asp-for="Product.Price50" type="text" placeholder="Enter price for 50" class="form-control">
+                            <span asp-validation-for="Product.Price50" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Price 100:</label>
+                            <input asp-for="Product.Price100" type="text" placeholder="Enter price for 100" class="form-control">
+                            <span asp-validation-for="Product.Price100" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Stock Quantity:</label>
+                            <div class="input-group">
+                                <input asp-for="Product.StockQuantity" type="text" placeholder="Enter stock quantity" class="form-control" />
+                                <div class="input-group-append">
+                                    <button type="button" class="btn btn-outline-secondary" onclick="incrementStock()">+</button>
+                                    <button type="button" class="btn btn-outline-secondary" onclick="decrementStock()">-</button>
+                                </div>
+                            </div>
+                            <span asp-validation-for="Product.StockQuantity" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Category:</label>
+                            <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" class="form-control">
+                                <option disabled selected>--Select Category--</option>
+                            </select>
+                            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Language:</label>
+                            <select asp-for="@Model.Product.LanguageId" asp-items="@Model.LanguageList" class="form-control">
+                                <option disabled selected>--Select Language--</option>
+                            </select>
+                            <span asp-validation-for="Product.LanguageId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-check">
+                                <input asp-for="Product.IsBestSeller" class="form-check-input" />
+                                <label class="form-check-label">Is Bestseller?</label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-check">
+                                <input asp-for="Product.IsDealOfTheDay" class="form-check-input" />
+                                <label class="form-check-label">Is Deal Of The Day?</label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Images:</label>
+                            <input asp-for="Product.ProductImages" type="file" name="files" class="form-control-file" multiple>
+                        </div>
+
+
+
+                        <div class="row">
+
+                            <div class="col-6">
+                                <a asp-controller="Product" asp-action="Index" class="btn btn-warning form-control"><i class="ti-angle-double-left"></i>&nbsp; Back to Product List</a>
+                            </div>
+
+                            <div class="col-6">
+                                @if (Model.Product.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-success border form-control"><i class="fa fa-save"></i>&nbsp; Update </button>
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-success border form-control"><i class="fa fa-magic"></i>&nbsp; Create </button>
+                                }
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2">
+                @if (Model.Product.ProductImages != null)
+                {
+                    foreach (var image in Model.Product.ProductImages)
+                    {
+                        <div class="border p-1 m-2 text-center">
+                            <img src="~/@image.ImageUrl" width="100%"
+                                 style="border-radius:5px; border:1px solid #bbb9b9" />
+                            <a asp-action="DeleteImage" class="btn btn-danger" asp-route-imageId="@image.Id">
+                                <i class="bi bi-trash-fill"></i> Delete
+                            </a>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</form>
+
+
+
+
+@section Scripts{
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons lists table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | align lineheight | numlist bullist indent outdent',
+        });
+    </script>
+
+    <script>
+        function incrementStock() {
+            var stockQuantityInput = document.getElementById("Product_StockQuantity");
+            stockQuantityInput.value = parseInt(stockQuantityInput.value) + 1;
+        }
+
+        function decrementStock() {
+            var stockQuantityInput = document.getElementById("Product_StockQuantity");
+            var newValue = parseInt(stockQuantityInput.value) - 1;
+            if (newValue >= 0) {
+                stockQuantityInput.value = newValue;
+            }
+        }
+    </script>
+
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Delete";
+}
+
+@model Coupon
+
+<h1 class="text-center mb-3">Delete Coupon Page</h1>
+
+<div class="row">
+    <div class="col-lg-6 offset-3">
+        <div class="card">
+            <div class="card-header">Edit Coupon</div>
+            <div class="card-body card-block">
+                <form asp-action="Delete" method="post">
+                    <input asp-for="Id" hidden />
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-book"></i></div>
+                            <input asp-for="Code" type="text" disabled class="form-control">
+                        </div>
+
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-book"></i></div>
+                            <input asp-for="DiscountAmount" type="text" disabled class="form-control">
+                        </div>
+
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-book"></i></div>
+                            <input asp-for="DiscountPercent" type="text" disabled class="form-control">
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <button asp-controller="Coupon" asp-action="Index" class="btn btn-warning form-control"><i class="ti-angle-double-left"></i>&nbsp; Back to Coupon List</button>
+                        </div>
+                        <div class="col-6">
+                            <button type="submit" class="btn btn-danger border form-control"><i class="fa fa-magic"></i>&nbsp; Delete </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

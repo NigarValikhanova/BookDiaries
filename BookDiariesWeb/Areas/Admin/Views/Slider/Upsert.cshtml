@@ -1,0 +1,122 @@
+﻿@{
+    ViewData["Title"] = "Upsert";
+}
+
+@model Slider
+
+<h1 class="text-center mb-3">@((Model.Id != 0 ? "Update" : "Create") + " Slider Page")</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    @((Model.Id != 0 ? "Update" : "Create") + " Slider")
+                </div>
+                <div class="card-body">
+                    <form asp-action="Upsert" method="post" enctype="multipart/form-data">
+                        <input asp-for="Id" hidden />
+                        <input asp-for="ImageUrl" hidden />
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label>Title:</label>
+                            <input asp-for="Name" type="text" placeholder="Enter Name" class="form-control">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        
+                        @if (Model.Id != 0)
+                        {
+                            <div class="form-group">
+                                <label>Current Image:</label>
+                                <img src="~/@Model.ImageUrl" class="img-fluid rounded" style="border: 1px solid #bbb9b9;">
+                            </div>
+                        }
+
+                        <div class="form-group">
+                            <label>Starting Price:</label>
+                            <input asp-for="StartingPrice" type="text" placeholder="Enter starting price" class="form-control">
+                            <span asp-validation-for="StartingPrice" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Discount Percent:</label>
+                            <input asp-for="DiscountPercent" type="text" placeholder="Enter discount percent" class="form-control">
+                            <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-check">
+                                <input asp-for="IsUsed" class="form-check-input" />
+                                <label class="form-check-label">Is Used?</label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Image:</label>
+                            <input asp-for="ImageUrl" type="file" name="file" class="form-control-file">
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-6">
+                                <a asp-controller="Slider" asp-action="Index" class="btn btn-warning form-control"><i class="ti-angle-double-left"></i>&nbsp; Back to Slider List</a>
+                            </div>
+
+                            <div class="col-6">
+                                @if (Model.Id != 0)
+                                {
+                                    <button type="submit" class="btn btn-success border form-control"><i class="fa fa-save"></i>&nbsp; Update </button>
+                                }
+                                else
+                                {
+                                    <button type="submit" class="btn btn-success border form-control"><i class="fa fa-magic"></i>&nbsp; Create </button>
+                                }
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed linkchecker a11ychecker tinymcespellchecker permanentpen powerpaste advtable advcode editimage advtemplate ai mentions tinycomments tableofcontents footnotes mergetags autocorrect typography inlinecss',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            tinycomments_mode: 'embedded',
+            tinycomments_author: 'Author name',
+            mergetags_list: [
+                { value: 'First.Name', title: 'First Name' },
+                { value: 'Email', title: 'Email' },
+            ],
+            ai_request: (request, respondWith) => respondWith.string(() => Promise.reject("See docs to implement AI Assistant")),
+        });
+    </script>
+
+    <script>
+        function incrementStock() {
+            var stockQuantityInput = document.getElementById("Product_StockQuantity");
+            stockQuantityInput.value = parseInt(stockQuantityInput.value) + 1;
+        }
+
+        function decrementStock() {
+            var stockQuantityInput = document.getElementById("Product_StockQuantity");
+            var newValue = parseInt(stockQuantityInput.value) - 1;
+            if (newValue >= 0) {
+                stockQuantityInput.value = newValue;
+            }
+        }
+    </script>
+
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

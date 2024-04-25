@@ -1,0 +1,147 @@
+﻿@model ShoppingCartVM
+
+<!-- breadcrumb area start -->
+<section class="breadcrumb__area include-bg pt-95 pb-50" data-bg-color="#EFF1F5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xxl-12">
+                <div class="breadcrumb__content p-relative z-index-1">
+                    <h3 class="breadcrumb__title">Checkout</h3>
+                    <div class="breadcrumb__list">
+                        <span><a href="#">Home</a></span>
+                        <span>Checkout</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb area end -->
+<!-- checkout area start -->
+<section class="tp-checkout-area pb-120" data-bg-color="#EFF1F5">
+    <form method="post">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="tp-checkout-bill-area">
+                        <h3 class="tp-checkout-bill-title">Billing Details</h3>
+                        <div class="tp-checkout-bill-form">
+                            <form action="#">
+                                <div class="tp-checkout-bill-inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="tp-checkout-input">
+                                                <label>First Name <span>*</span></label>
+                                                <input asp-for="OrderHeader.Name" type="text">
+                                                <span asp-validation-for="OrderHeader.Name" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="tp-checkout-input">
+                                                <label>Phone Number <span>*</span></label>
+                                                <input asp-for="OrderHeader.PhoneNumber" type="text">
+                                                <span asp-validation-for="OrderHeader.PhoneNumber" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="tp-checkout-input">
+                                                <label>Country <span>*</span> </label>
+                                                <input asp-for="OrderHeader.Country" type="text">
+                                                <span asp-validation-for="OrderHeader.Country" class="text-danger"></span>
+                                               
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="tp-checkout-input">
+                                                <label>City <span>*</span></label>
+                                                <input asp-for="OrderHeader.City" type="text">
+                                                <span asp-validation-for="OrderHeader.City" class="text-danger"></span>                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="tp-checkout-input">
+                                                <label>Street address <span>*</span></label>
+                                                <input asp-for="OrderHeader.StreetAddress" type="text">
+                                                <span asp-validation-for="OrderHeader.StreetAddress" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="col-md-6">
+                                            <div class="tp-checkout-input">
+                                                <label>Postcode ZIP <span>*</span></label>
+                                                <input asp-for="OrderHeader.PostalCode" type="text">
+                                                <span asp-validation-for="OrderHeader.PostalCode" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="tp-checkout-input">
+                                                <label>Order notes (optional)</label>
+                                                <textarea placeholder="Notes about your order, e.g. special notes for delivery."></textarea>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <div class="tp-checkout-input">
+                                                <p style="color:maroon; font-size:14px">
+                                                    Estimate Arrival Date:
+                                                    @DateTime.Now.AddDays(7).ToShortDateString() - @DateTime.Now.AddDays(14).ToShortDateString()
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <!-- checkout place order -->
+                    <div class="tp-checkout-place white-bg">
+                        <h3 class="tp-checkout-place-title">Your Order</h3>
+
+                        <div class="tp-order-info-list">
+                            <ul>
+
+                                <!-- header -->
+                                <li class="tp-order-info-list-header">
+                                    <h4>Product</h4>
+                                    <h4>Total</h4>
+                                </li>
+                                <!-- item list -->
+                                @foreach(var details in Model.ShoppingCartList)
+                                {
+                                    <li class="tp-order-info-list-desc">
+                                        <p>@details.Product.Title <span> x @details.Count</span></p>
+                                        <span>@((details.Price*details.Count).ToString("c"))</span>
+                                    </li>
+                                }    
+                                <!-- subtotal -->
+                                <li class="tp-order-info-list-subtotal">
+                                    <span>Subtotal</span>
+                                    <span>@Model.OrderHeader.OrderTotal.ToString("c")</span>
+                                </li>
+                                                                
+                                <!-- total -->
+                                <li class="tp-order-info-list-total">
+                                    <span>Total</span>
+                                    <span>@Model.OrderHeader.OrderTotal.ToString("c")</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tp-checkout-agree">
+                            <div class="tp-checkout-option">
+                                <input id="read_all" type="checkbox">
+                                <label for="read_all">I have read and agree to the website.</label>
+                            </div>
+                        </div>
+                        <div class="tp-checkout-btn-wrapper">
+                            <button type="submit" class="tp-checkout-btn w-100">Place Order</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</section>
+<!-- checkout area end -->

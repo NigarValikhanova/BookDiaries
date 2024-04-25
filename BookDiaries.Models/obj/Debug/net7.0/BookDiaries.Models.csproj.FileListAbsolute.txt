@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\bin\Debug\net7.0\BookDiaries.Models.deps.json
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\bin\Debug\net7.0\BookDiaries.Models.runtimeconfig.json
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\bin\Debug\net7.0\BookDiaries.Models.dll
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\bin\Debug\net7.0\BookDiaries.Models.pdb
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.AssemblyInfo.cs
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.dll
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\refint\BookDiaries.Models.dll
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.pdb
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\BookDiaries.Models.genruntimeconfig.cache
+C:\Users\asus\source\repos\BookDiaries\BookDiaries.Models\obj\Debug\net7.0\ref\BookDiaries.Models.dll

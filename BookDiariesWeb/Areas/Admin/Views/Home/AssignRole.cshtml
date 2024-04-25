@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "AssignRole";
+}
+@model List<AssignRole>
+
+
+
+<div class="breadcrumbs">
+    <div class="breadcrumbs-inner">
+        <div class="row m-0">
+            <div class="col-sm-4">
+                <div class="page-header float-left">
+                    <div class="page-title">
+                        <h1>Dashboard</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="page-header float-right">
+                    <div class="page-title">
+                        <ol class="breadcrumb text-right">
+                            <li><a asp-controller="home" asp-action="Index" asp-area="admin">Dashboard</a></li>
+                            <li><a asp-controller="home" asp-action="UserList" asp-area="admin">User List</a></li>
+                            <li class="active">Assign Role To User</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="animated fadeIn">
+        <div class="card">
+            <div class="card-header">
+                <i class="mr-2 fa fa-archive"></i>
+                <strong class="card-title">Assign Role To User</strong>
+            </div>
+            <div class="card-body">
+
+                <form asp-action="AssignRole" asp-route-userId="@ViewBag.userId" method="post">
+
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        <div class="checkbox col-md-3">
+                            <label for="checkbox1" class="form-check-label ">
+                                <input type="checkbox" asp-for="@Model[i].Exist" class="form-check-input">@Model[i].Name
+                            </label>
+                            <input type="hidden" asp-for="@Model[i].Name">
+                            <input type="hidden" asp-for="@Model[i].Id">
+                        </div>
+                    }
+                    <div class="row">
+                        <div class="form-actions form-group col-md-8"><button asp-area="admin" asp-controller="Home" asp-action="UserList" class="btn btn-warning btn-sm"><i class="ti-angle-double-left"></i>&nbsp; Back to User List</button></div>
+                        <div class="form-actions form-group col-md-4"><button type="submit" class="btn btn-success btn-sm"><i class="fa fa-magic"></i>&nbsp; Assign Role</button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

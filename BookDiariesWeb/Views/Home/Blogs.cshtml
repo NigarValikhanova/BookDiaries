@@ -1,0 +1,68 @@
+﻿@model List<Blog>         
+
+@section Styles{
+    <style>
+        .blog-image {
+            width: 100%; /* Set the width to 100% of the container */
+            height: auto; /* Automatically adjust the height to maintain aspect ratio */
+            max-width: 100%; /* Ensure the image does not exceed its original size */
+        }
+
+    </style>
+}
+
+<!-- breadcrumb area start -->
+<section class="breadcrumb__area include-bg pt-150 pb-150 breadcrumb__overlay breadcrumb__style-3" data-background="../img/breadcrumb/breadcrumb-bg-1.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xxl-12">
+                <div class="breadcrumb__content text-center p-relative z-index-1">
+                    <h3 class="breadcrumb__title">Our Blog</h3>
+                    <div class="breadcrumb__list">
+                        <span><a asp-controller="Home" asp-action="Index">Home</a></span>
+                        <span>Blog</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb area end -->
+<!-- postbox area start -->
+<section class="tp-postbox-area pt-120 pb-120">
+    <div class="container">
+        <div class="row">
+            @foreach(var item in Model)
+            {
+                <div class="col-xl-12 col-lg-12">
+                    <div class="tp-postbox-wrapper pr-50">
+                        <article class="tp-postbox-item format-image mb-50 transition-3">
+                            <div class="tp-postbox-thumb w-img">
+                                <a href="blog-details.html">
+                                    <img src="~/@item.ImageUrl" >
+                                </a>
+                            </div>
+                            <div class="tp-postbox-content">
+                                <div class="tp-postbox-meta">
+                                    <span><i class="far fa-calendar-check"></i> @item.CreatedAt.ToShortDateString() </span>
+                                    <span><a href="#"><i class="far fa-user"></i> @item.Author</a></span>
+                                </div>
+                                <h3 class="tp-postbox-title">
+                                    <a asp-action="BlogDetails" asp-route-Id="@item.Id">@item.Title</a>
+                                </h3>
+                                <div class="tp-postbox-text">
+                                    <p>@item.Content.Substring(0,200)</p>
+                                </div>
+                                <div class="tp-postbox-read-more">
+                                    <a asp-action="BlogDetails" asp-route-Id="@item.Id" class="tp-btn">Read More</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+</section>
+<!-- postbox area end -->

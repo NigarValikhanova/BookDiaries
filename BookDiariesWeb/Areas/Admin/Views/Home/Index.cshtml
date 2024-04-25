@@ -1,0 +1,175 @@
+﻿ 
+@model AdminVM
+
+<!-- Content -->
+<div class="content">
+    <!-- Animated -->
+    <div class="animated fadeIn">
+        <!-- Widgets  -->
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="stat-widget-five">
+                            <div class="stat-icon dib flat-color-1">
+                                <i class="pe-7s-cash"></i>
+                            </div>
+                            @{
+                                double totalRevenue = 0;
+                                int totalCount = 0;
+                                foreach (var item in Model.OrderList)
+                                {
+                                    if (item.OrderStatus == "Shipped")
+                                    {
+                                        totalRevenue += item.OrderTotal;
+                                        totalCount++;
+                                    }
+                                }
+                            }
+
+                            <div class="stat-content">
+                                <div class="text-left dib">
+                                    <div class="stat-text">$<span class="count" id="totalRevenue">@totalRevenue</span></div>
+                                    <div class="stat-heading">Revenue</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="stat-widget-five">
+                            <div class="stat-icon dib flat-color-2">
+                                <i class="pe-7s-cart"></i>
+                            </div>
+                            <div class="stat-content">
+                                <div class="text-left dib">
+                                    <div class="stat-text"><span class="count">@totalCount</span></div>
+                                    <div class="stat-heading">Sales</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="stat-widget-five">
+                            <div class="stat-icon dib flat-color-3">
+                                <i class="pe-7s-browser"></i>
+                            </div>
+                            @{
+                                int totalProduct = 0;
+                                foreach (var item in Model.ProductList)
+                                {
+                                    totalProduct++;
+                                }
+                            }
+                            <div class="stat-content">
+                                <div class="text-left dib">
+                                    <div class="stat-text"><span class="count">@totalProduct</span></div>
+                                    <div class="stat-heading">Products</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="stat-widget-five">
+                            <div class="stat-icon dib flat-color-4">
+                                <i class="pe-7s-users"></i>
+                            </div>
+                            @{
+                                int totalUser = 0;
+                                foreach (var item in Model.UserList)
+                                {                                   
+                                        totalUser++;                                    
+                                }
+                            }
+                            <div class="stat-content">
+                                <div class="text-left dib">
+                                    <div class="stat-text"><span id="totalUsers" class="count">@totalUser</span></div>
+                                    <div class="stat-heading">Clients</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Widgets -->
+
+        <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <strong class="card-title">Order List</strong>
+                </div>
+                <div class="card-body">
+                    <table id="tblData" class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Phone Number</th>
+                                <th>Tracking Number</th>
+                                <th>Status</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                @foreach (var item in Model.OrderList)
+                                {
+                                    <tr>
+                                        <td>@item.Id</td>
+                                        <td>@item.Name</td>
+                                        <td>@item.PhoneNumber</td>
+                                        <td>@item.TrackingNumber</td>
+                                        <td>@item.OrderStatus</td>
+                                        <td>@item.OrderTotal</td>                                        
+                                    </tr>
+                                }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <!-- .animated -->
+</div>
+<!-- /.content -->
+
+
+
+@section Scripts{
+    <script src="~/admin/js/lib/data-table/datatables.min.js"></script>
+    <script src="~/admin/js/lib/data-table/dataTables.bootstrap.min.js"></script>
+    <script src="~/admin/js/lib/data-table/dataTables.buttons.min.js"></script>
+    <script src="~/admin/js/lib/data-table/buttons.bootstrap.min.js"></script>
+    <script src="~/admin/js/lib/data-table/jszip.min.js"></script>
+    <script src="~/admin/js/lib/data-table/vfs_fonts.js"></script>
+    <script src="~/admin/js/lib/data-table/buttons.html5.min.js"></script>
+    <script src="~/admin/js/lib/data-table/buttons.print.min.js"></script>
+    <script src="~/admin/js/lib/data-table/buttons.colVis.min.js"></script>
+    <script src="~/admin/js/init/datatables-init.js"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#bootstrap-data-table-export').DataTable();
+        });
+    </script>
+    <script>
+        document.getElementById("totalRevenue").innerText = @totalRevenue.ToString();
+    </script>
+}

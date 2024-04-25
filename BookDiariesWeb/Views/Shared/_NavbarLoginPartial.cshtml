@@ -1,0 +1,56 @@
+﻿@if (User.Identity!.IsAuthenticated)
+{
+    <div class="tp-header-login d-none d-lg-block">
+        <a href="#" class="d-flex align-items-center" id="user-icon">
+            <div class="tp-header-login-icon">
+                <span>
+                    <svg width="17" height="21" viewBox="0 0 17 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="8.57894" cy="5.77803" r="4.77803" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.00002 17.2014C0.998732 16.8655 1.07385 16.5337 1.2197 16.2311C1.67736 15.3158 2.96798 14.8307 4.03892 14.611C4.81128 14.4462 5.59431 14.336 6.38217 14.2815C7.84084 14.1533 9.30793 14.1533 10.7666 14.2815C11.5544 14.3367 12.3374 14.4468 13.1099 14.611C14.1808 14.8307 15.4714 15.27 15.9291 16.2311C16.2224 16.8479 16.2224 17.564 15.9291 18.1808C15.4714 19.1419 14.1808 19.5812 13.1099 19.7918C12.3384 19.9634 11.5551 20.0766 10.7666 20.1304C9.57937 20.2311 8.38659 20.2494 7.19681 20.1854C6.92221 20.1854 6.65677 20.1854 6.38217 20.1304C5.59663 20.0773 4.81632 19.9641 4.04807 19.7918C2.96798 19.5812 1.68652 19.1419 1.2197 18.1808C1.0746 17.8747 0.999552 17.5401 1.00002 17.2014Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </span>
+            </div>
+
+            <div class="tp-header-login-content d-none d-xl-block">
+                <span>Hello,</span>
+                <h5 class="tp-header-login-title">@User.Identity.Name</h5>
+            </div>
+        </a>
+        <div class="dropdown-menu" id="dropdown-menu">
+            <ul class="tp-submenu">
+                @if (User.IsInRole(SD.Role_Admin))
+                {
+                    <li><a asp-area="Admin" asp-controller="Home" asp-action="Index"><span><i class="menu-icon fa fa-laptop"></i></span> Admin</a></li>
+                    <li><a asp-area="Home" asp-controller="Home" asp-action="Register"><span> <i class="fa fa-person fill-add"></i> </span> Register New User</a></li>
+
+                   
+                }
+                <li><a asp-controller="Member" asp-action="Index"><span><i class="fa-regular fa-user-pen"></i></span> Profile</a></li>
+                <li><a asp-controller="Member" asp-action="Orders"><span><i class="fa-light fa-clipboard-list-check"></i></span> My Orders</a></li>
+                <li><a asp-controller="Member" asp-action="ChangePassword"><span><i class="fa-regular fa-lock"></i></span> Change Password</a></li>
+                <li><a asp-route-returnurl="/Home/Index" asp-controller="Member" asp-action="Logout"><span><i class="fa-light fa-arrow-right"></i></span> Logout</a></li>
+
+            </ul>
+        </div>
+    </div>
+}
+else
+{
+    <div class="tp-header-login d-none d-lg-block">
+        <a asp-area="Home" asp-controller="Home" asp-action="Login" class="d-flex align-items-center" id="user-icon">
+            <div class="tp-header-login-icon">
+                <span>
+                    <svg width="17" height="21" viewBox="0 0 17 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="8.57894" cy="5.77803" r="4.77803" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.00002 17.2014C0.998732 16.8655 1.07385 16.5337 1.2197 16.2311C1.67736 15.3158 2.96798 14.8307 4.03892 14.611C4.81128 14.4462 5.59431 14.336 6.38217 14.2815C7.84084 14.1533 9.30793 14.1533 10.7666 14.2815C11.5544 14.3367 12.3374 14.4468 13.1099 14.611C14.1808 14.8307 15.4714 15.27 15.9291 16.2311C16.2224 16.8479 16.2224 17.564 15.9291 18.1808C15.4714 19.1419 14.1808 19.5812 13.1099 19.7918C12.3384 19.9634 11.5551 20.0766 10.7666 20.1304C9.57937 20.2311 8.38659 20.2494 7.19681 20.1854C6.92221 20.1854 6.65677 20.1854 6.38217 20.1304C5.59663 20.0773 4.81632 19.9641 4.04807 19.7918C2.96798 19.5812 1.68652 19.1419 1.2197 18.1808C1.0746 17.8747 0.999552 17.5401 1.00002 17.2014Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </span>
+            </div>
+
+            <div class="tp-header-login-content d-none d-xl-block">
+                <span>Login to</span>
+                <h5 class="tp-header-login-title">Your Account</h5>
+            </div>
+        </a>
+    </div>
+}

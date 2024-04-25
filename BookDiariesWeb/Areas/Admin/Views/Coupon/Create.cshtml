@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+@model Coupon
+
+<h1 class="text-center mb-3">Create Coupon Page</h1>
+
+<div class="row">
+    <div class="col-lg-6 offset-3">
+        <div class="card">
+            <div class="card-header">Create Coupon</div>
+            <div class="card-body card-block">
+                <form asp-action="Create" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-book"></i></div>
+                            <input asp-for="Code" type="text" placeholder="Code" class="form-control">
+                        </div>
+                        <span asp-validation-for="Code" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-book"></i></div>
+                            <input asp-for="DiscountAmount" type="text" placeholder="Minimum Amount" class="form-control">
+                        </div>
+                        <span asp-validation-for="DiscountAmount" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-book"></i></div>
+                            <input asp-for="DiscountPercent" type="text" placeholder="Discount Percent" class="form-control">
+                        </div>
+                        <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <button asp-controller="Coupon" asp-action="Index" class="btn btn-warning form-control"><i class="ti-angle-double-left"></i>&nbsp; Back to Coupon List</button>
+                        </div>
+                        <div class="col-6">
+                            <button type="submit" class="btn btn-success border form-control"><i class="fa fa-magic"></i>&nbsp; Submit </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

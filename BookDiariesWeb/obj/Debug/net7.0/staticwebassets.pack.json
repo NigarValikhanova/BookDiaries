@@ -1,0 +1,3485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookDiariesWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookDiariesWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\admin\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\admin\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\admin\\images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\blog\\32075a4c-2eeb-4fef-a8d0-3468cfcaccca.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\blog\\32075a4c-2eeb-4fef-a8d0-3468cfcaccca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\blog\\3e89b6d6-c567-4c7d-9ea8-137500c4868c.png",
+      "PackagePath": "staticwebassets\\admin\\images\\blog\\3e89b6d6-c567-4c7d-9ea8-137500c4868c.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\blog\\8cfa3062-bd1a-4b5e-9ade-b74543b2ae7e.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\blog\\8cfa3062-bd1a-4b5e-9ade-b74543b2ae7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\blog\\d4f01279-dfd7-4276-a803-725fbcd2dfd5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\blog\\d4f01279-dfd7-4276-a803-725fbcd2dfd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1022\\1e939b72-3efa-4773-8aa6-62836d39b163.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1022\\1e939b72-3efa-4773-8aa6-62836d39b163.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1023\\4ca9a7c9-82c1-40d5-8151-f97175b305ff.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1023\\4ca9a7c9-82c1-40d5-8151-f97175b305ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1023\\e23cd85f-e4c3-4744-a6fb-90e100b8024e.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1023\\e23cd85f-e4c3-4744-a6fb-90e100b8024e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-10\\542cd918-e029-4acf-9b70-52d01ffe01f9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-10\\542cd918-e029-4acf-9b70-52d01ffe01f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-11\\21c98e32-bd00-435a-b766-a4e59d999e9d.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-11\\21c98e32-bd00-435a-b766-a4e59d999e9d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-11\\63932342-2f61-4c21-97d7-1ba977ef496f.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-11\\63932342-2f61-4c21-97d7-1ba977ef496f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-11\\83d58124-51ef-4086-9790-71a36f499eb1.jpeg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-11\\83d58124-51ef-4086-9790-71a36f499eb1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-11\\bf01a6a1-ec95-48b6-b4f8-6be2fb1042c6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-11\\bf01a6a1-ec95-48b6-b4f8-6be2fb1042c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-11\\ef9390f0-4618-4bfd-ab92-67a729b4797b.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-11\\ef9390f0-4618-4bfd-ab92-67a729b4797b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-12\\326446a9-359f-4a29-80c4-d70fd542fb5a.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-12\\326446a9-359f-4a29-80c4-d70fd542fb5a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-12\\5f4c5558-7e89-41ca-bbd4-eaa04b332270.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-12\\5f4c5558-7e89-41ca-bbd4-eaa04b332270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-12\\5f8bc994-3f84-4422-aaa2-1c5e2c61c9fd.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-12\\5f8bc994-3f84-4422-aaa2-1c5e2c61c9fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-12\\676befcd-55c7-4e37-b099-1ea0327ca8c3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-12\\676befcd-55c7-4e37-b099-1ea0327ca8c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-12\\c32bd910-74cd-4582-bb6d-0fda27ab8533.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-12\\c32bd910-74cd-4582-bb6d-0fda27ab8533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-13\\297b1be3-7294-4a60-adbb-58fc3d18272f.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-13\\297b1be3-7294-4a60-adbb-58fc3d18272f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-13\\3dadedae-1084-492e-be36-07015b17c428.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-13\\3dadedae-1084-492e-be36-07015b17c428.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-13\\63097a40-6a63-473b-9936-f8bbd26e916a.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-13\\63097a40-6a63-473b-9936-f8bbd26e916a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-14\\434101d2-1d32-47fe-b6df-fce5dc96a4c2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-14\\434101d2-1d32-47fe-b6df-fce5dc96a4c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-14\\56f02cb8-0c9d-4b2f-8d8b-1a43a5a5fe2d.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-14\\56f02cb8-0c9d-4b2f-8d8b-1a43a5a5fe2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-14\\cc486189-cd8e-429c-b181-43d7dd70f8a1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-14\\cc486189-cd8e-429c-b181-43d7dd70f8a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-15\\86a90128-c31f-437a-bf64-3173d3301e46.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-15\\86a90128-c31f-437a-bf64-3173d3301e46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-15\\89b3ffa5-cf33-43f5-977c-ff39542f2909.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-15\\89b3ffa5-cf33-43f5-977c-ff39542f2909.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-15\\f4664ff5-92ba-4180-a084-4a46d6f0fe95.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-15\\f4664ff5-92ba-4180-a084-4a46d6f0fe95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-16\\062d7ac1-c394-4cda-a2b8-3ef9269a27dd.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-16\\062d7ac1-c394-4cda-a2b8-3ef9269a27dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-16\\437f3ac4-fea7-4308-a304-032489fefd94.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-16\\437f3ac4-fea7-4308-a304-032489fefd94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-16\\cdffe3c9-9716-43c4-b8ce-75f84f907dd9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-16\\cdffe3c9-9716-43c4-b8ce-75f84f907dd9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-16\\e03abff7-ea05-4507-bac1-b1df7a8ea930.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-16\\e03abff7-ea05-4507-bac1-b1df7a8ea930.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-17\\4c0af6ff-5145-4296-8d33-4a4ce85551bf.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-17\\4c0af6ff-5145-4296-8d33-4a4ce85551bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-17\\792e5903-850f-44aa-89c5-6d263fae514e.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-17\\792e5903-850f-44aa-89c5-6d263fae514e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-17\\87132b0c-4f69-4bae-bc92-6380201046c2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-17\\87132b0c-4f69-4bae-bc92-6380201046c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-17\\ef1a9c7a-e083-45ee-a73b-97ec22eefaf0.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-17\\ef1a9c7a-e083-45ee-a73b-97ec22eefaf0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-18\\3cf7b2b7-094d-4a48-8961-73624bf43bce.jfif",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-18\\3cf7b2b7-094d-4a48-8961-73624bf43bce.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-18\\7df61bad-1724-4c9a-8126-87955b3b1ef0.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-18\\7df61bad-1724-4c9a-8126-87955b3b1ef0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-18\\84435480-f061-4180-adcb-1f7fafec3803.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-18\\84435480-f061-4180-adcb-1f7fafec3803.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-18\\9d1a50f5-a4b5-4d53-b92e-bef1a337f468.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-18\\9d1a50f5-a4b5-4d53-b92e-bef1a337f468.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-18\\adf222b6-cfa7-4301-8aca-b060b0b45145.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-18\\adf222b6-cfa7-4301-8aca-b060b0b45145.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-19\\90172f3c-98fe-403b-8089-4be9fccc16fa.jfif",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-19\\90172f3c-98fe-403b-8089-4be9fccc16fa.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-19\\9288df3a-ef3a-404d-b6c1-7fd370304338.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-19\\9288df3a-ef3a-404d-b6c1-7fd370304338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-19\\9ea66281-8985-40b2-bdf9-5b35b81c541a.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-19\\9ea66281-8985-40b2-bdf9-5b35b81c541a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-19\\ae5f1eaf-783d-4876-b39c-39a67d599d27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-19\\ae5f1eaf-783d-4876-b39c-39a67d599d27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-19\\b6d2fe02-ba59-47e7-beaf-a497445446b4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-19\\b6d2fe02-ba59-47e7-beaf-a497445446b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1\\35ab30f2-966a-4b52-8a24-b33fb4a3c339.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1\\35ab30f2-966a-4b52-8a24-b33fb4a3c339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1\\4708b917-728d-4a47-8d09-a352d92cd799.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1\\4708b917-728d-4a47-8d09-a352d92cd799.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1\\557c29c3-455b-4868-ae11-163086302c03.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1\\557c29c3-455b-4868-ae11-163086302c03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1\\bfcca105-e5c8-488a-91da-2f3a1b2653c3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1\\bfcca105-e5c8-488a-91da-2f3a1b2653c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-1\\ed78de70-e0ed-4bb7-8b97-60111bf495b4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-1\\ed78de70-e0ed-4bb7-8b97-60111bf495b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-20\\46d83761-f333-4d52-a59a-8c055f95563e.jfif",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-20\\46d83761-f333-4d52-a59a-8c055f95563e.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-20\\66f2064f-a794-42c7-acf2-39d856cdd64b.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-20\\66f2064f-a794-42c7-acf2-39d856cdd64b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-20\\981cb773-a44e-4222-ac7d-a70be13ed7c9.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-20\\981cb773-a44e-4222-ac7d-a70be13ed7c9.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-20\\a04edde7-4c94-4cf7-bb3c-d211282df699.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-20\\a04edde7-4c94-4cf7-bb3c-d211282df699.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-21\\15869a67-00b1-42f1-9b93-a72b7aef1ac8.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-21\\15869a67-00b1-42f1-9b93-a72b7aef1ac8.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-21\\53c29722-aff8-47c4-90c9-b75d3ab30532.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-21\\53c29722-aff8-47c4-90c9-b75d3ab30532.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-21\\647ee2a3-d6ef-4c1d-9223-04c9b0892c97.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-21\\647ee2a3-d6ef-4c1d-9223-04c9b0892c97.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-21\\94e7c0b1-ba16-485c-acf8-5b135154535e.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-21\\94e7c0b1-ba16-485c-acf8-5b135154535e.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-21\\b7375ba3-bff8-4ef5-9453-4807b093c4ee.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-21\\b7375ba3-bff8-4ef5-9453-4807b093c4ee.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-21\\e4aefae3-081d-481e-a93e-c27934472d51.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-21\\e4aefae3-081d-481e-a93e-c27934472d51.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-22\\264e0bcf-2c54-4ed5-8649-ec045a868eb7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-22\\264e0bcf-2c54-4ed5-8649-ec045a868eb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-22\\4232a55b-963f-4175-9c04-e5fb42378bf1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-22\\4232a55b-963f-4175-9c04-e5fb42378bf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-22\\b590277a-fb99-4c7c-a13c-291e80e1acfd.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-22\\b590277a-fb99-4c7c-a13c-291e80e1acfd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-22\\e63f381c-5655-4a32-9e40-3426c7251828.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-22\\e63f381c-5655-4a32-9e40-3426c7251828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\020dfbe8-5bfe-4041-b4ba-65d678fb232a.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\020dfbe8-5bfe-4041-b4ba-65d678fb232a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\0e89f9da-55f2-4afb-9bd5-144d8484d1f6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\0e89f9da-55f2-4afb-9bd5-144d8484d1f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\0f17a9d4-e964-470d-b64c-bd1380cd98d2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\0f17a9d4-e964-470d-b64c-bd1380cd98d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\8b914d1c-1a17-4f6f-8a70-3dd4c7d28256.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\8b914d1c-1a17-4f6f-8a70-3dd4c7d28256.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\b53c7533-14cc-4f34-8a9c-840d48d29474.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\b53c7533-14cc-4f34-8a9c-840d48d29474.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\b91e872f-cba7-4a24-b2fb-a7c9af3d694a.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\b91e872f-cba7-4a24-b2fb-a7c9af3d694a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\cb3d7dfb-2adb-4acc-92f9-24c0af9e2369.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\cb3d7dfb-2adb-4acc-92f9-24c0af9e2369.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\da4ad4e0-b5da-4f34-89ee-af40e51dfa63.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\da4ad4e0-b5da-4f34-89ee-af40e51dfa63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\dea3a7c2-1bff-4686-a8d2-ea6bd192f774.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\dea3a7c2-1bff-4686-a8d2-ea6bd192f774.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-2\\df26e027-aed0-4fc7-b3f4-a8d4e48b2141.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-2\\df26e027-aed0-4fc7-b3f4-a8d4e48b2141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-3\\6c1700eb-f756-4fa7-af7c-9725035ca754.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-3\\6c1700eb-f756-4fa7-af7c-9725035ca754.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-3\\85db35eb-7f08-4810-b06a-dfb6e8e1ca7b.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-3\\85db35eb-7f08-4810-b06a-dfb6e8e1ca7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-3\\a7254c4b-0333-41e0-93cb-1ed07dbefa1c.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-3\\a7254c4b-0333-41e0-93cb-1ed07dbefa1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-3\\bef30fa0-5d29-4472-9efa-9488eaddd9ec.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-3\\bef30fa0-5d29-4472-9efa-9488eaddd9ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-3\\d1c3e5b3-308c-4db5-be0d-1bf5a2ec5a3f.png",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-3\\d1c3e5b3-308c-4db5-be0d-1bf5a2ec5a3f.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-3\\d93d6748-a40a-4343-9b74-2af4a4575c8b.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-3\\d93d6748-a40a-4343-9b74-2af4a4575c8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-4\\5587dd29-75a3-4348-91de-ccd87c276f7a.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-4\\5587dd29-75a3-4348-91de-ccd87c276f7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-4\\b8ba54df-e244-422b-93b0-2cbe75482fbe.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-4\\b8ba54df-e244-422b-93b0-2cbe75482fbe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-4\\c8748d4c-1ae5-4b2d-938a-f95e5208b1ec.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-4\\c8748d4c-1ae5-4b2d-938a-f95e5208b1ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-5\\0c1ad49c-0728-4a73-b7fb-1ae89eed2ba2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-5\\0c1ad49c-0728-4a73-b7fb-1ae89eed2ba2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-5\\52725f6b-bdba-4fc3-8d66-860ccd57c32b.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-5\\52725f6b-bdba-4fc3-8d66-860ccd57c32b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-5\\e79d2351-cdb5-4c5b-8e4d-2296f307e276.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-5\\e79d2351-cdb5-4c5b-8e4d-2296f307e276.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-5\\eaff159a-2953-49a5-9bf8-1cf2099020d4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-5\\eaff159a-2953-49a5-9bf8-1cf2099020d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-6\\5cf28dd1-9158-48b5-98f1-0a845e2430ad.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-6\\5cf28dd1-9158-48b5-98f1-0a845e2430ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-6\\7db8abf3-1f2d-4771-962b-b4586ec4d22f.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-6\\7db8abf3-1f2d-4771-962b-b4586ec4d22f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-6\\9ab462ab-7ed2-43f5-84b7-b895b8d5f14e.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-6\\9ab462ab-7ed2-43f5-84b7-b895b8d5f14e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-6\\b6f6e2b3-6e9c-4820-ab02-e99f9786a638.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-6\\b6f6e2b3-6e9c-4820-ab02-e99f9786a638.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-6\\d3299197-dabe-4b5d-b5aa-6be0129f7974.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-6\\d3299197-dabe-4b5d-b5aa-6be0129f7974.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-7\\09d095f9-7ce2-4e7b-9bfd-795789cab052.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-7\\09d095f9-7ce2-4e7b-9bfd-795789cab052.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-7\\1e8b9982-9b67-49bf-87a4-118d6425f443.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-7\\1e8b9982-9b67-49bf-87a4-118d6425f443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-7\\2f4232eb-a8aa-4d20-aaf6-1d7bc44e4119.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-7\\2f4232eb-a8aa-4d20-aaf6-1d7bc44e4119.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-8\\61617ced-fdb8-46bf-88ca-b066a5554d37.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-8\\61617ced-fdb8-46bf-88ca-b066a5554d37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\products\\product-9\\8403e94a-2366-4a57-9b0a-2494c576bb17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\product-9\\8403e94a-2366-4a57-9b0a-2494c576bb17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\slider\\6426a742-9ed9-499e-bdcd-0075647e68d2.webp",
+      "PackagePath": "staticwebassets\\admin\\images\\slider\\6426a742-9ed9-499e-bdcd-0075647e68d2.webp"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\slider\\8c41a515-07ee-4aca-b227-cc82cca7bc9d.png",
+      "PackagePath": "staticwebassets\\admin\\images\\slider\\8c41a515-07ee-4aca-b227-cc82cca7bc9d.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\slider\\921bcfe5-a161-4301-9207-833d710ee023.webp",
+      "PackagePath": "staticwebassets\\admin\\images\\slider\\921bcfe5-a161-4301-9207-833d710ee023.webp"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\slider\\e230bbd2-3eab-4a73-81b3-bd1d9626c6bf.png",
+      "PackagePath": "staticwebassets\\admin\\images\\slider\\e230bbd2-3eab-4a73-81b3-bd1d9626c6bf.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\images\\slider\\f2ad0a72-f991-4cc5-990f-76db189ac324.png",
+      "PackagePath": "staticwebassets\\admin\\images\\slider\\f2ad0a72-f991-4cc5-990f-76db189ac324.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\admin\\js\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\scss\\style.css",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\flaticon_shofy.css",
+      "PackagePath": "staticwebassets\\css\\flaticon_shofy.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\font-awesome-pro.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome-pro.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\images\\ui-icons_444444_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\images\\ui-icons_555555_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\images\\ui-icons_777777_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777777_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\imageupload.css",
+      "PackagePath": "staticwebassets\\css\\imageupload.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\spacing.css",
+      "PackagePath": "staticwebassets\\css\\spacing.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\css\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-duotone-900.html",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-duotone-901.html",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-901.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\flaticon_shofyc3d7.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofyc3d7.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\flaticon_shofyc3d7.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofyc3d7.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\flaticon_shofyc3d7.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofyc3d7.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\flaticon_shofyc3d7.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofyc3d7.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\fonts\\flaticon_shofyc3d7.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofyc3d7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\1131w-qg5_fokTeCQ.webp",
+      "PackagePath": "staticwebassets\\img\\1131w-qg5_fokTeCQ.webp"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\2\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\2\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\2\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\2\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\2\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\2\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-big-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-big-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-big-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-big-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\blog-big-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\details\\blog-big-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\details\\blog-details-sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\details\\shape\\line.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\shape\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\details\\shape\\quote.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\shape\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\grid\\blog-grid-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\grid\\blog-grid-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\list\\blog-list-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\list\\blog-list-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\list\\blog-list-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\list\\blog-list-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\list\\blog-list-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\list\\blog-list-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\list\\blog-list-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\list\\blog-list-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\list\\blog-list-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\list\\blog-list-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\sidebar\\blog-sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\blog-sidebar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\sidebar\\blog-sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\blog-sidebar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\sidebar\\blog-sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\blog-sidebar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\blog\\signature\\signature.png",
+      "PackagePath": "staticwebassets\\img\\blog\\signature\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\author\\logo_01.png",
+      "PackagePath": "staticwebassets\\img\\brand\\author\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\author\\logo_02.png",
+      "PackagePath": "staticwebassets\\img\\brand\\author\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\author\\logo_03.png",
+      "PackagePath": "staticwebassets\\img\\brand\\author\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\author\\logo_04.png",
+      "PackagePath": "staticwebassets\\img\\brand\\author\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\logo_01.png",
+      "PackagePath": "staticwebassets\\img\\brand\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\logo_02.png",
+      "PackagePath": "staticwebassets\\img\\brand\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\logo_03.png",
+      "PackagePath": "staticwebassets\\img\\brand\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\logo_04.png",
+      "PackagePath": "staticwebassets\\img\\brand\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\brand\\logo_05.png",
+      "PackagePath": "staticwebassets\\img\\brand\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\breadcrumb\\breadcrumb-bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb\\breadcrumb-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\3\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\3\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\3\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\3\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\3\\category-3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\3\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\3\\category-4.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\3\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\4\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\4\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\4\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\4\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\4\\category-3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\4\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\4\\category-4.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\4\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\4\\category-5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\4\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\5\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\5\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\5\\category-3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\5\\category-4.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\5\\category-5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\5\\category-6.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\category-3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\category-4.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\category-5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\category-6.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\category-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-10.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-11.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-12.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-4.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-6.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-7.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-8.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\category\\main\\category-main-9.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\main\\category-main-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\contact\\contact-icon-1.png",
+      "PackagePath": "staticwebassets\\img\\contact\\contact-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\contact\\contact-icon-2.png",
+      "PackagePath": "staticwebassets\\img\\contact\\contact-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\contact\\contact-icon-3.png",
+      "PackagePath": "staticwebassets\\img\\contact\\contact-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\coupon.jpg",
+      "PackagePath": "staticwebassets\\img\\coupon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\cta\\cta-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cta\\cta-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\cta\\shape\\cta-shape-1.png",
+      "PackagePath": "staticwebassets\\img\\cta\\shape\\cta-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\cta\\shape\\cta-shape-2.png",
+      "PackagePath": "staticwebassets\\img\\cta\\shape\\cta-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-1.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-2.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-3.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-4.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-5.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-6.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\deal\\shape\\shape-7.png",
+      "PackagePath": "staticwebassets\\img\\deal\\shape\\shape-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\error\\error.png",
+      "PackagePath": "staticwebassets\\img\\error\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\footer\\footer-pay-2.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-pay-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\footer\\footer-pay.png",
+      "PackagePath": "staticwebassets\\img\\footer\\footer-pay.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\img-1.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\img-2.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\img-3.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\img-4.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\img-5.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\img-6.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\menu-brand-1.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\menu-brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\menu-brand-2.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\menu-brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\grocery\\menu-brand-3.png",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\grocery\\menu-brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\header\\menu\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\header\\menu\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\history\\history-1.jpg",
+      "PackagePath": "staticwebassets\\img\\history\\history-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\history\\history-2.jpg",
+      "PackagePath": "staticwebassets\\img\\history\\history-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\contact.png",
+      "PackagePath": "staticwebassets\\img\\icon\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\cross-out.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cross-out.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\language-flag.png",
+      "PackagePath": "staticwebassets\\img\\icon\\language-flag.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\login\\apple.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\login\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\login\\facebook.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\login\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\login\\google.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\login\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\icon\\payment-option.png",
+      "PackagePath": "staticwebassets\\img\\icon\\payment-option.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\2\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\2\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\2\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\2\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\2\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\2\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\2\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\2\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\2\\insta-icon.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\2\\insta-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\3\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\3\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\3\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\3\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\3\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\3\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\3\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\3\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\3\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\3\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\3\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\3\\instagram-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\4\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\4\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\4\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\4\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\4\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\4\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\4\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\4\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\4\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\4\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\4\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\4\\instagram-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\laptop.png",
+      "PackagePath": "staticwebassets\\img\\login\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\login-shape-1.png",
+      "PackagePath": "staticwebassets\\img\\login\\login-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\login-shape-2.png",
+      "PackagePath": "staticwebassets\\img\\login\\login-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\login-shape-3.png",
+      "PackagePath": "staticwebassets\\img\\login\\login-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\login-shape-4.png",
+      "PackagePath": "staticwebassets\\img\\login\\login-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\man.png",
+      "PackagePath": "staticwebassets\\img\\login\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\shape-1.png",
+      "PackagePath": "staticwebassets\\img\\login\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\shape-2.png",
+      "PackagePath": "staticwebassets\\img\\login\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\shape-3.png",
+      "PackagePath": "staticwebassets\\img\\login\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\login\\shape-4.png",
+      "PackagePath": "staticwebassets\\img\\login\\shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\logo\\logo(book) main.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo(book) main.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\logo\\logo-white.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\logo\\preloader\\preloader-icon.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\preloader\\preloader-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\menu-home-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\menu-home-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\menu-home-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-home-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\menu-home-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-home-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\menu-home-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-home-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\product\\menu-product-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\product\\menu-product-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\menu\\product\\menu-product-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\product\\menu-product-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\2\\prodcut-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2\\prodcut-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-16.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-17.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-18.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-19.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-20.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\3\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\4\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\5\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\banner\\gamesbanner1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banner\\gamesbanner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\banner\\legobanner2.png",
+      "PackagePath": "staticwebassets\\img\\product\\banner\\legobanner2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\banner\\product-banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banner\\product-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\banner\\product-banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banner\\product-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book1.png",
+      "PackagePath": "staticwebassets\\img\\product\\book1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book16.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book17.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book18.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book19.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book2.png",
+      "PackagePath": "staticwebassets\\img\\product\\book2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book20.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book3.png",
+      "PackagePath": "staticwebassets\\img\\product\\book3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book4.png",
+      "PackagePath": "staticwebassets\\img\\product\\book4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\book9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\book9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\cart\\product-cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart\\product-cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\cart\\product-cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart\\product-cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\cart\\product-cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart\\product-cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\cart\\product-cart-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cart\\product-cart-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\cartmini\\empty-cart.png",
+      "PackagePath": "staticwebassets\\img\\product\\cartmini\\empty-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\azcabook.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\category\\azcabook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\bestseller.png",
+      "PackagePath": "staticwebassets\\img\\product\\category\\bestseller.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\ingcebook.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\category\\ingcebook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\product-cat-1.png",
+      "PackagePath": "staticwebassets\\img\\product\\category\\product-cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\product-cat-2.png",
+      "PackagePath": "staticwebassets\\img\\product\\category\\product-cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\product-cat-3.png",
+      "PackagePath": "staticwebassets\\img\\product\\category\\product-cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\product-cat-4.png",
+      "PackagePath": "staticwebassets\\img\\product\\category\\product-cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\product-cat-5.png",
+      "PackagePath": "staticwebassets\\img\\product\\category\\product-cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\ruscabook.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\category\\ruscabook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\category\\turkcebook.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\category\\turkcebook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\collection\\4\\collection-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\collection\\4\\collection-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\collection\\4\\collection-sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\collection\\4\\collection-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\collection\\4\\side-text.png",
+      "PackagePath": "staticwebassets\\img\\product\\collection\\4\\side-text.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\collection\\collection-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\collection\\collection-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\collection\\collection-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\collection\\collection-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\comic\\comic1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\comic\\comic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\comic\\comic2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\comic\\comic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\comic\\comic3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\comic\\comic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\comic\\comic4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\comic\\comic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\comic\\comic5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\comic\\comic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\comic\\comic6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\comic\\comic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\desc\\product-details-desc-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\desc\\product-details-desc-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\desc\\product-details-desc-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\desc\\product-details-desc-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\desc\\product-details-desc-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\desc\\product-details-desc-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\desc\\product-details-desc-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\desc\\product-details-desc-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\desc\\product-details-desc-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\desc\\product-details-desc-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\main\\product-details-main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\main\\product-details-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\main\\product-details-main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\main\\product-details-main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\main\\product-details-main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\main\\product-details-main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\main\\product-details-main-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\main\\product-details-main-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\main\\product-details-main-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\main\\product-details-main-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\nav\\product-details-nav-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\nav\\product-details-nav-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\nav\\product-details-nav-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\nav\\product-details-nav-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\nav\\product-details-nav-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\nav\\product-details-nav-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\nav\\product-details-nav-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\nav\\product-details-nav-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\2\\nav\\product-details-nav-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\2\\nav\\product-details-nav-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\main\\product-details-main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\main\\product-details-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\main\\product-details-main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\main\\product-details-main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\main\\product-details-main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\main\\product-details-main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\main\\product-details-main-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\main\\product-details-main-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\nav\\product-details-nav-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\nav\\product-details-nav-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\nav\\product-details-nav-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\nav\\product-details-nav-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\nav\\product-details-nav-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\nav\\product-details-nav-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\3\\nav\\product-details-nav-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\3\\nav\\product-details-nav-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\main\\product-details-main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\main\\product-details-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\main\\product-details-main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\main\\product-details-main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\main\\product-details-main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\main\\product-details-main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\main\\product-details-main-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\main\\product-details-main-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\nav\\product-details-nav-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\nav\\product-details-nav-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\nav\\product-details-nav-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\nav\\product-details-nav-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\nav\\product-details-nav-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\nav\\product-details-nav-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\4\\nav\\product-details-nav-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\4\\nav\\product-details-nav-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\main\\product-details-main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\main\\product-details-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\main\\product-details-main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\main\\product-details-main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\main\\product-details-main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\main\\product-details-main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\main\\product-details-main-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\main\\product-details-main-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\nav\\product-details-nav-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\nav\\product-details-nav-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\nav\\product-details-nav-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\nav\\product-details-nav-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\5\\nav\\product-details-nav-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\5\\nav\\product-details-nav-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\desc\\product-details-desc-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\desc\\product-details-desc-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\desc\\product-details-desc-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\desc\\product-details-desc-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\desc\\product-details-desc-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\desc\\product-details-desc-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\grid\\product-details-grid-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\grid\\product-details-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\grid\\product-details-grid-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\grid\\product-details-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\grid\\product-details-grid-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\grid\\product-details-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\grid\\product-details-grid-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\grid\\product-details-grid-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\grid\\product-details-grid-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\grid\\product-details-grid-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\grid\\product-details-grid-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\grid\\product-details-grid-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\list\\product-details-list-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\list\\product-details-list-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\list\\product-details-list-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\list\\product-details-list-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\list\\product-details-list-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\list\\product-details-list-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\list\\product-details-list-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\list\\product-details-list-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\main\\product-details-main-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\main\\product-details-main-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\main\\product-details-main-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\main\\product-details-main-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\main\\product-details-main-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\main\\product-details-main-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\main\\product-details-main-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\main\\product-details-main-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\main\\product-details-main-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\main\\product-details-main-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\nav\\product-details-nav-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\nav\\product-details-nav-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\nav\\product-details-nav-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\nav\\product-details-nav-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\nav\\product-details-nav-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\nav\\product-details-nav-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\nav\\product-details-nav-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\nav\\product-details-nav-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\nav\\product-details-nav-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\nav\\product-details-nav-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\slider\\product-details-slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\slider\\product-details-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\slider\\product-details-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\slider\\product-details-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\slider\\product-details-slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\slider\\product-details-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\slider\\product-details-slider-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\slider\\product-details-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\slider\\product-details-slider-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\slider\\product-details-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\details\\slider\\product-details-slider-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\slider\\product-details-slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-17-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-17-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-17-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-17-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-18-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-18-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-19-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-19-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-19-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-19-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-19-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-19-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-20-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-20-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-20-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-20-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-21-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-21-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-21-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-21-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-22-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-22-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-22-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-22-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-22-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-23-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-23-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-24-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-25-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-25-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-26-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-26-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-26-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-26-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-27-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-27-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-27-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-27-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-28-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-28-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-28-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-28-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-29-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-29-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-29-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-29-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-30-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-30-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-31-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-31-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-32-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-32-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-33-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-33-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-35-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-35-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-36-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-36-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-37-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-37-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-38-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-38-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-39-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-39-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-40-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-40-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-41-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-41-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product-42-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product-42-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-4.png",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_0.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_10-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_11-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_12-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_13-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_14-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_15-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_16-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_16.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_2-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_3-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_4-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_5-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_6-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_7-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_8-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_9-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\product_9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\product_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\quickview_1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\quickview_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\quickview_2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\quickview_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\quickview_3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\quickview_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\quickview_4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\quickview_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\swatch_0.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\swatch_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\swatch_1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\swatch_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\fashion\\swatch_2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fashion\\swatch_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\featured\\featured-1.png",
+      "PackagePath": "staticwebassets\\img\\product\\featured\\featured-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\featured\\featured-2.png",
+      "PackagePath": "staticwebassets\\img\\product\\featured\\featured-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\featured\\featured-3.png",
+      "PackagePath": "staticwebassets\\img\\product\\featured\\featured-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gadget\\gadget-banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gadget\\gadget-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gadget\\gadget-banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gadget\\gadget-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gadget\\gadget-girl.png",
+      "PackagePath": "staticwebassets\\img\\product\\gadget\\gadget-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gifts\\product1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gifts\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gifts\\product2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gifts\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gifts\\product3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gifts\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gifts\\product4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gifts\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gifts\\product5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gifts\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\gifts\\product6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\gifts\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\homegarden\\product1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\homegarden\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\homegarden\\product2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\homegarden\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\homegarden\\product3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\homegarden\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\homegarden\\product4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\homegarden\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\homegarden\\product5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\homegarden\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\homegarden\\product6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\homegarden\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\icons\\check-2.svg",
+      "PackagePath": "staticwebassets\\img\\product\\icons\\check-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\icons\\check-3.svg",
+      "PackagePath": "staticwebassets\\img\\product\\icons\\check-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\icons\\check.svg",
+      "PackagePath": "staticwebassets\\img\\product\\icons\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\icons\\payment-option.png",
+      "PackagePath": "staticwebassets\\img\\product\\icons\\payment-option.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\list\\product-list-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\list\\product-list-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\masonary\\masonary-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\masonary\\masonary-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\masonary\\masonary-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\masonary\\masonary-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\offer\\cosmetiv.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\offer\\cosmetiv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\offer\\dealofday1.png",
+      "PackagePath": "staticwebassets\\img\\product\\offer\\dealofday1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\offer\\dealofday2.png",
+      "PackagePath": "staticwebassets\\img\\product\\offer\\dealofday2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\offer\\product-offer-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\offer\\product-offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\offer\\product-offer-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\offer\\product-offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\offer\\product-offer-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\offer\\product-offer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-16.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-17.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-5-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\2\\product-related-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\2\\product-related-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\2\\product-related-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\2\\product-related-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\2\\product-related-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\2\\product-related-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\2\\product-related-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\2\\product-related-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\product-related-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\product-related-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\product-related-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\product-related-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\product-related-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\product-related-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\related\\product-related-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\product-related-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_01.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_02.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_03.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_04.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_05.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_06.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_06.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_07.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_07.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\brand\\logo_08.png",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\brand\\logo_08.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\sm\\shop-sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\sm\\shop-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\sm\\shop-sm-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\sm\\shop-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\sm\\shop-sm-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\sm\\shop-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\shop\\sm\\shop-sm-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\shop\\sm\\shop-sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\side\\pre-title.png",
+      "PackagePath": "staticwebassets\\img\\product\\side\\pre-title.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\side\\side-1.png",
+      "PackagePath": "staticwebassets\\img\\product\\side\\side-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\slider\\product-slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\slider\\product-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\slider\\product-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\slider\\product-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\slider\\product-slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\slider\\product-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\slider\\product-slider-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\slider\\product-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\slider\\product-slider-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\slider\\product-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\5\\product-sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\5\\product-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\5\\product-sm-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\5\\product-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\5\\product-sm-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\5\\product-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\5\\product-sm-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\5\\product-sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\5\\product-sm-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\5\\product-sm-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\5\\product-sm-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\5\\product-sm-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\sm\\product-sm-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sm\\product-sm-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\special\\big\\special-big-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\special\\big\\special-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\special\\special-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\special\\special-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\special\\special-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\special\\special-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\trending\\banner\\trending-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\trending\\banner\\trending-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\trending\\trending-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\trending\\trending-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\trending\\trending-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\trending\\trending-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\product\\trending\\trending-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\trending\\trending-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\2\\shape\\shape-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2\\shape\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\2\\shape\\shape-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2\\shape\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\2\\shape\\shape-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2\\shape\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\2\\slider-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2\\slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\2\\slider-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2\\slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\2\\slider-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\2\\slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\3\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\3\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\3\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\3\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\3\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\3\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\nav\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\nav\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\nav\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\nav\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\nav\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\nav\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\nav\\icon-4.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\nav\\icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\shape\\rounded-test.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\shape\\rounded-test.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\slider-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\slider-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\slider-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\4\\slider-4.png",
+      "PackagePath": "staticwebassets\\img\\slider\\4\\slider-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\shape\\offer.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\shape\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\shape\\shape-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\shape\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\shape\\shape-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\shape\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\shape\\shape-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\shape\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\shape\\shape-4.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\shape\\shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\slider-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\5\\subtitle.png",
+      "PackagePath": "staticwebassets\\img\\slider\\5\\subtitle.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\lotr.webp",
+      "PackagePath": "staticwebassets\\img\\slider\\lotr.webp"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\lotr2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\lotr2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\lotr3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\lotr3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\shape\\slider-shape-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\shape\\slider-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\shape\\slider-shape-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\shape\\slider-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\shape\\slider-shape-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\shape\\slider-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\shape\\slider-shape-4.png",
+      "PackagePath": "staticwebassets\\img\\slider\\shape\\slider-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\slider-img-1.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\slider-img-2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\slider\\slider-img-3.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\subscribe\\plane.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\subscribe\\subscribe-shape-1.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\subscribe-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\subscribe\\subscribe-shape-2.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\subscribe-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\subscribe\\subscribe-shape-3.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\subscribe-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\subscribe\\subscribe-shape-4.png",
+      "PackagePath": "staticwebassets\\img\\subscribe\\subscribe-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\testimonial\\testimonial-quote-2.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\testimonial-quote-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\testimonial\\testimonial-quote.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\testimonial-quote.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-10.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-11.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-2.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-3.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-4.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-5.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\img\\users\\user-6.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\user-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\blog.js",
+      "PackagePath": "staticwebassets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\bootstrap-bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\btnloadmore.js",
+      "PackagePath": "staticwebassets\\js\\btnloadmore.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\imagesloaded-pkgd.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded-pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\infinite-scroll.js",
+      "PackagePath": "staticwebassets\\js\\infinite-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\isotope-pkgd.js",
+      "PackagePath": "staticwebassets\\js\\isotope-pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\nice-select.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\parallax.js",
+      "PackagePath": "staticwebassets\\js\\parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\purecounter.js",
+      "PackagePath": "staticwebassets\\js\\purecounter.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\range-slider.js",
+      "PackagePath": "staticwebassets\\js\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\vendor\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\vendor\\waypoints.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\0db2046f-a18c-4774-88d7-4bd7116eaa3a.png",
+      "PackagePath": "staticwebassets\\userPictures\\0db2046f-a18c-4774-88d7-4bd7116eaa3a.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\0f3376ce-d624-49a5-8b09-9a7d450f682d.jpg",
+      "PackagePath": "staticwebassets\\userPictures\\0f3376ce-d624-49a5-8b09-9a7d450f682d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\1c47f08d-62f8-494d-99d3-6925f9088a5a.png",
+      "PackagePath": "staticwebassets\\userPictures\\1c47f08d-62f8-494d-99d3-6925f9088a5a.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\3c5a0e8a-12aa-4eeb-8fb7-efee0521151c.jpeg",
+      "PackagePath": "staticwebassets\\userPictures\\3c5a0e8a-12aa-4eeb-8fb7-efee0521151c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\91124929-2ac8-4d0d-b895-9adc66f7b6bd.png",
+      "PackagePath": "staticwebassets\\userPictures\\91124929-2ac8-4d0d-b895-9adc66f7b6bd.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\b11d0211-f4e8-4798-9f68-4524a9e53088.png",
+      "PackagePath": "staticwebassets\\userPictures\\b11d0211-f4e8-4798-9f68-4524a9e53088.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\c995b9e0-1096-4385-b073-57695d94b90d.jpeg",
+      "PackagePath": "staticwebassets\\userPictures\\c995b9e0-1096-4385-b073-57695d94b90d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\d8d12f77-e093-4731-a2a9-0d543ac662e8.jpg",
+      "PackagePath": "staticwebassets\\userPictures\\d8d12f77-e093-4731-a2a9-0d543ac662e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\default.jpg",
+      "PackagePath": "staticwebassets\\userPictures\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\BookDiaries\\BookDiariesWeb\\wwwroot\\userPictures\\f4580054-1c32-4ca2-8315-a916436e4a79.jpeg",
+      "PackagePath": "staticwebassets\\userPictures\\f4580054-1c32-4ca2-8315-a916436e4a79.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookDiariesWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookDiariesWeb.props",
+      "PackagePath": "build\\BookDiariesWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookDiariesWeb.props",
+      "PackagePath": "buildMultiTargeting\\BookDiariesWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookDiariesWeb.props",
+      "PackagePath": "buildTransitive\\BookDiariesWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,287 @@
+﻿@{
+    ViewData["Title"] = "EditUser";
+}
+
+@section Styles{
+    <style>
+        .profile__input-box--color1 {
+            background-color: blue; /* Change this to whatever color you want */
+        }
+
+        .profile__input-box--color2 {
+            background-color: green; /* Change this to whatever color you want */
+        }
+
+    </style>
+}
+
+@model EditUser
+
+
+<!-- profile area start -->
+<section class="profile__area pt-120 pb-120">
+    <div class="container">
+        <div class="profile__inner p-relative">
+            <div class="profile__shape">
+                <img class="profile__shape-1" src="~/img/login/laptop.png" alt="">
+                <img class="profile__shape-2" src="~/img/login/man.png" alt="">
+                <img class="profile__shape-3" src="~/img/login/shape-1.png" alt="">
+                <img class="profile__shape-4" src="~/img/login/shape-2.png" alt="">
+                <img class="profile__shape-5" src="~/img/login/shape-3.png" alt="">
+                <img class="profile__shape-6" src="~/img/login/shape-4.png" alt="">
+            </div>
+            <div class="row">
+                <div class="col-md-8 offset-2">
+                    <div class="profile__tab-content">
+                        <div class="tab-content" id="profile-tabContent">
+                            <div class="profile__main">
+                                <form asp-controller="Member" asp-action="EditUser" method="post" enctype="multipart/form-data">
+                                    <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert">
+                                    </div>
+                                    <div class="profile__main-top pb-80">
+                                        <div class="row align-items-center">
+                                            <div class="col-md-6">
+                                                <div class="profile__main-inner d-flex flex-wrap align-items-center">
+                                                    <div class="profile__main-thumb">                                                        
+                                                        <user-picture-thumbnail picture-url="@Model.PictureUrl" id="profile-preview"></user-picture-thumbnail>
+                                                        <!-- Image preview container -->
+                                                        <div class="profile__main-thumb-edit">
+                                                            <!-- Hidden input file -->
+                                                            <input id="profile-thumb-input" asp-for="Picture" class="profile-img-popup" type="file" accept="image/*">
+                                                            <label asp-for="Picture" for="profile-thumb-input"><i class="fa-light fa-camera"></i></label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="profile__main-content">
+                                                        <h4 class="profile__main-title"> @Model.Username </h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="profile__info">
+                                        <h3 class="profile__info-title text-center">Change Personal Details</h3>
+                                        <div class="profile__info-content">
+                                            <div class="row">
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your username" asp-for="Username">
+                                                            <span>
+                                                                <svg width="17" height="19" viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M9 9C11.2091 9 13 7.20914 13 5C13 2.79086 11.2091 1 9 1C6.79086 1 5 2.79086 5 5C5 7.20914 6.79086 9 9 9Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                    <path d="M15.5 17.6C15.5 14.504 12.3626 12 8.5 12C4.63737 12 1.5 14.504 1.5 17.6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="Username"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <select asp-for="Gender" asp-items="ViewBag.genderList">
+                                                                <option value="">Choose the Gender</option>
+
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your first name" asp-for="FirstName">
+                                                            <span>
+                                                                <svg width="17" height="19" viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M9 9C11.2091 9 13 7.20914 13 5C13 2.79086 11.2091 1 9 1C6.79086 1 5 2.79086 5 5C5 7.20914 6.79086 9 9 9Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                    <path d="M15.5 17.6C15.5 14.504 12.3626 12 8.5 12C4.63737 12 1.5 14.504 1.5 17.6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="FirstName"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your last name" asp-for="LastName">
+                                                            <span>
+                                                                <svg width="17" height="19" viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M9 9C11.2091 9 13 7.20914 13 5C13 2.79086 11.2091 1 9 1C6.79086 1 5 2.79086 5 5C5 7.20914 6.79086 9 9 9Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                    <path d="M15.5 17.6C15.5 14.504 12.3626 12 8.5 12C4.63737 12 1.5 14.504 1.5 17.6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="LastName"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="email" placeholder="Enter your email" asp-for="Email">
+                                                            <span>
+                                                                <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M13 14.6H5C2.6 14.6 1 13.4 1 10.6V5C1 2.2 2.6 1 5 1H13C15.4 1 17 2.2 17 5V10.6C17 13.4 15.4 14.6 13 14.6Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                                                                    <path d="M13 5.3999L10.496 7.3999C9.672 8.0559 8.32 8.0559 7.496 7.3999L5 5.3999" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="Email"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your number" asp-for="PhoneNumber">
+                                                            <span>
+                                                                <svg width="15" height="18" viewBox="0 0 15 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M13.9148 5V13C13.9148 16.2 13.1076 17 9.87892 17H5.03587C1.80717 17 1 16.2 1 13V5C1 1.8 1.80717 1 5.03587 1H9.87892C13.1076 1 13.9148 1.8 13.9148 5Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                    <path opacity="0.4" d="M9.08026 3.80054H5.85156" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                    <path opacity="0.4" d="M7.45425 14.6795C8.14522 14.6795 8.70537 14.1243 8.70537 13.4395C8.70537 12.7546 8.14522 12.1995 7.45425 12.1995C6.76327 12.1995 6.20312 12.7546 6.20312 13.4395C6.20312 14.1243 6.76327 14.6795 7.45425 14.6795Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="date" placeholder="Enter your birthday" asp-for="BirthDate">
+                                                            <span>
+                                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-month-fill" viewBox="0 0 16 16">
+                                                                    <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zm.104 7.305L4.9 10.18H3.284l.8-2.375zm9.074 2.297c0-.832-.414-1.36-1.062-1.36-.692 0-1.098.492-1.098 1.36v.253c0 .852.406 1.364 1.098 1.364.671 0 1.062-.516 1.062-1.364z" />
+                                                                    <path d="M16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M2.56 12.332h-.71L3.748 7h.696l1.898 5.332h-.719l-.539-1.602H3.1zm7.29-4.105v4.105h-.668v-.539h-.027c-.145.324-.532.605-1.188.605-.847 0-1.453-.484-1.453-1.425V8.227h.676v2.554c0 .766.441 1.012.98 1.012.59 0 1.004-.371 1.004-1.023V8.227zm1.273 4.41c.075.332.422.636.985.636.648 0 1.07-.378 1.07-1.023v-.605h-.02c-.163.355-.613.648-1.171.648-.957 0-1.64-.672-1.64-1.902v-.34c0-1.207.675-1.887 1.64-1.887.558 0 1.004.293 1.195.64h.02v-.577h.648v4.03c0 1.052-.816 1.579-1.746 1.579-1.043 0-1.574-.516-1.668-1.2z" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="BirthDate"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your city" asp-for="City">
+                                                            <span>
+                                                                <svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M7.99377 10.1461C9.39262 10.1461 10.5266 9.0283 10.5266 7.64946C10.5266 6.27061 9.39262 5.15283 7.99377 5.15283C6.59493 5.15283 5.46094 6.27061 5.46094 7.64946C5.46094 9.0283 6.59493 10.1461 7.99377 10.1461Z" stroke="currentColor" stroke-width="1.5" />
+                                                                    <path d="M1.19707 6.1933C2.79633 -0.736432 13.2118 -0.72843 14.803 6.2013C15.7365 10.2663 13.1712 13.7072 10.9225 15.8357C9.29079 17.3881 6.70924 17.3881 5.06939 15.8357C2.8288 13.7072 0.263493 10.2583 1.19707 6.1933Z" stroke="currentColor" stroke-width="1.5" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="City"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-12 col-md-12">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your street address" asp-for="StreetAddress">
+                                                            <span>
+                                                                <svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M7.99377 10.1461C9.39262 10.1461 10.5266 9.0283 10.5266 7.64946C10.5266 6.27061 9.39262 5.15283 7.99377 5.15283C6.59493 5.15283 5.46094 6.27061 5.46094 7.64946C5.46094 9.0283 6.59493 10.1461 7.99377 10.1461Z" stroke="currentColor" stroke-width="1.5" />
+                                                                    <path d="M1.19707 6.1933C2.79633 -0.736432 13.2118 -0.72843 14.803 6.2013C15.7365 10.2663 13.1712 13.7072 10.9225 15.8357C9.29079 17.3881 6.70924 17.3881 5.06939 15.8357C2.8288 13.7072 0.263493 10.2583 1.19707 6.1933Z" stroke="currentColor" stroke-width="1.5" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="StreetAddress"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your country" asp-for="Country">
+                                                            <span>
+                                                                <svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M7.99377 10.1461C9.39262 10.1461 10.5266 9.0283 10.5266 7.64946C10.5266 6.27061 9.39262 5.15283 7.99377 5.15283C6.59493 5.15283 5.46094 6.27061 5.46094 7.64946C5.46094 9.0283 6.59493 10.1461 7.99377 10.1461Z" stroke="currentColor" stroke-width="1.5" />
+                                                                    <path d="M1.19707 6.1933C2.79633 -0.736432 13.2118 -0.72843 14.803 6.2013C15.7365 10.2663 13.1712 13.7072 10.9225 15.8357C9.29079 17.3881 6.70924 17.3881 5.06939 15.8357C2.8288 13.7072 0.263493 10.2583 1.19707 6.1933Z" stroke="currentColor" stroke-width="1.5" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="Country"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>                                              
+
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <input type="text" placeholder="Enter your postal code" asp-for="PostalCode">
+                                                            <span>
+                                                                <svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M7.99377 10.1461C9.39262 10.1461 10.5266 9.0283 10.5266 7.64946C10.5266 6.27061 9.39262 5.15283 7.99377 5.15283C6.59493 5.15283 5.46094 6.27061 5.46094 7.64946C5.46094 9.0283 6.59493 10.1461 7.99377 10.1461Z" stroke="currentColor" stroke-width="1.5" />
+                                                                    <path d="M1.19707 6.1933C2.79633 -0.736432 13.2118 -0.72843 14.803 6.2013C15.7365 10.2663 13.1712 13.7072 10.9225 15.8357C9.29079 17.3881 6.70924 17.3881 5.06939 15.8357C2.8288 13.7072 0.263493 10.2583 1.19707 6.1933Z" stroke="currentColor" stroke-width="1.5" />
+                                                                </svg>
+                                                            </span>
+                                                            <span class="text-danger" asp-validation-for="PostalCode"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-xxl-12">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <textarea placeholder="Enter your bio">Hi there, this is my bio...</textarea>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <a asp-controller="Member" asp-action="Index" class="tp-login-btn w-100  profile__input-box--color1"> Back to Profile</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-xxl-6 col-md-6">
+                                                    <div class="profile__input-box">
+                                                        <div class="profile__input">
+                                                            <button type="submit" class="tp-login-btn w-100  profile__input-box--color2"> Save Changes</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- profile area end -->
+@section Scripts{
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Get the file input element
+            var fileInput = document.getElementById("profile-thumb-input");
+
+            // Add change event listener to the file input
+            fileInput.addEventListener("change", function (event) {
+                // Get the selected file
+                var file = event.target.files[0];
+
+                // Check if a file is selected
+                if (file) {
+                    // Create a FileReader object
+                    var reader = new FileReader();
+
+                    // Set up the FileReader onload function
+                    reader.onload = function (e) {
+                        // Get the image preview element
+                        var imgPreview = document.getElementById("profile-preview");
+
+                        // Set the image source to the loaded file result
+                        imgPreview.src = e.target.result;
+                    };
+
+                    // Read the selected file as a Data URL
+                    reader.readAsDataURL(file);
+                }
+            });
+        });
+    </script>
+}
