@@ -1,4 +1,4 @@
-<h1 class="text-center"> 📚 BookDiaries Webpage </h1> 
+<h1 align="center"> 📚 BookDiaries Webpage </h1> 
 
 ![logo(book) main](https://github.com/NigarValikhanova/BookDiaries/assets/140783772/6b7fa33e-f448-4b78-894a-e1d35a2c0b74)
 
