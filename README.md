@@ -1,7 +1,8 @@
-<h1 align="center"> 📚 BookDiaries Webpage </h1> 
+
 
 ![logo(book) main](https://github.com/NigarValikhanova/BookDiaries/assets/140783772/6b7fa33e-f448-4b78-894a-e1d35a2c0b74)
 
+<h1 align="center"> 📚 BookDiaries Webpage </h1> 
 
 Welcome to the repository for my BookDiaries Webpage, a dynamic online platform for book enthusiasts. This application is built with .NET 7, utilizing robust frameworks and libraries such as Identity for authentication, Entity Framework for ORM, and Dependency Injection for efficient service management.
 
